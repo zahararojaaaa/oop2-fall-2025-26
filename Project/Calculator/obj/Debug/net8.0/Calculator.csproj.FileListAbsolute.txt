@@ -1,0 +1,15 @@
+C:\ZaharaC#\oop2-fall-2025-26\Project\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\ZaharaC#\oop2-fall-2025-26\Project\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\ZaharaC#\oop2-fall-2025-26\Project\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\ZaharaC#\oop2-fall-2025-26\Project\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\ZaharaC#\oop2-fall-2025-26\Project\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\ZaharaC#\oop2-fall-2025-26\Project\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZaharaC#\oop2-fall-2025-26\Project\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\ZaharaC#\oop2-fall-2025-26\Project\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\ZaharaC#\oop2-fall-2025-26\Project\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\ZaharaC#\oop2-fall-2025-26\Project\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+C:\ZaharaC#\oop2-fall-2025-26\Project\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\ZaharaC#\oop2-fall-2025-26\Project\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\ZaharaC#\oop2-fall-2025-26\Project\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\ZaharaC#\oop2-fall-2025-26\Project\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\ZaharaC#\oop2-fall-2025-26\Project\Calculator\obj\Debug\net8.0\ref\Calculator.dll
