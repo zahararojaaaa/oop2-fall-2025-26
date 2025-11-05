@@ -1,0 +1,15 @@
+C:\ZaharaC#\oop2-fall-2025-26\Project\MortgageCalculator\bin\Debug\net8.0\MortgageCalculator.exe
+C:\ZaharaC#\oop2-fall-2025-26\Project\MortgageCalculator\bin\Debug\net8.0\MortgageCalculator.deps.json
+C:\ZaharaC#\oop2-fall-2025-26\Project\MortgageCalculator\bin\Debug\net8.0\MortgageCalculator.runtimeconfig.json
+C:\ZaharaC#\oop2-fall-2025-26\Project\MortgageCalculator\bin\Debug\net8.0\MortgageCalculator.dll
+C:\ZaharaC#\oop2-fall-2025-26\Project\MortgageCalculator\bin\Debug\net8.0\MortgageCalculator.pdb
+C:\ZaharaC#\oop2-fall-2025-26\Project\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZaharaC#\oop2-fall-2025-26\Project\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.AssemblyInfoInputs.cache
+C:\ZaharaC#\oop2-fall-2025-26\Project\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.AssemblyInfo.cs
+C:\ZaharaC#\oop2-fall-2025-26\Project\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.csproj.CoreCompileInputs.cache
+C:\ZaharaC#\oop2-fall-2025-26\Project\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.sourcelink.json
+C:\ZaharaC#\oop2-fall-2025-26\Project\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.dll
+C:\ZaharaC#\oop2-fall-2025-26\Project\MortgageCalculator\obj\Debug\net8.0\refint\MortgageCalculator.dll
+C:\ZaharaC#\oop2-fall-2025-26\Project\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.pdb
+C:\ZaharaC#\oop2-fall-2025-26\Project\MortgageCalculator\obj\Debug\net8.0\MortgageCalculator.genruntimeconfig.cache
+C:\ZaharaC#\oop2-fall-2025-26\Project\MortgageCalculator\obj\Debug\net8.0\ref\MortgageCalculator.dll
